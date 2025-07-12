@@ -1,49 +1,209 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\",
+  "WorkspaceRootPath": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\microservicionotificaciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correousuarioresoluci\u00F3nreclamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}|..\\Infrastructure\\Infrastructure.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\infrastructure\\email\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}|..\\Infrastructure\\Infrastructure.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\application\\dto\\sendnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\application\\handler\\sendnotificationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\application\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\application\\commands\\sendnotificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\microservicionotificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\microservicionotificaciones\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\microservicionotificaciones\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\microservicionotificaciones\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commons\\generadorcontenidocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreosubastadorreclamopremiohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreosubastadorconfirmacionreclamopremiohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correoreclamopremiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correosubastacanceladadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreousuariopagosubastahandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correosubastadorsubastafinalizadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreousuariopujaautomaticaacabadahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correousuariopujaautomaticaacabadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreopagosubastafallidohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreousuariopagosubastacommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreopagosubastafallidocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreousuariopagosubastahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreosubastacanceladahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreopagosubastafallidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correousuariopagosubastadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correousuariopagosubastafallidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\microservicionotificaciones\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}|..\\Infrastructure\\Infrastructure.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\microservicionotificaciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\microservicionotificaciones\\microservicionotificaciones.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|solutionrelative:microservicionotificaciones.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6365029-ABAE-4359-B5BD-1A2689A551B4}|..\\Domain\\Domain.csproj|d:\\proyectodesarrollo\\microservicionotificaciones\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\microservicionotificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B8C1EE-802C-44BB-809B-2F6F4A0252C0}|MicroservicioNotificaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\webapitest\\notificationcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\infrastructure\\services\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreousuarioresolucionreclamohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreousuarioresolucionreclamohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreousuariopujaautomaticaacabadahandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreosubastadorsubastafinalizadahandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreosubastadorsubastafinalizadahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreosubastadorreclamopremiohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreosubastadorconfirmacionreclamopremiohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreocanclecionsubastahandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\handlertest\\enviarcorreoganadorsubastahandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6365029-ABAE-4359-B5BD-1A2689A551B4}|..\\Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\domain\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\handler\\enviarcorreoganadorsubastahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreousuarioresolucionreclamocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreousuarioresolucionreclamocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreousuariopujaautomaticaacabadacommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreousuariopujaautomaticaacabadacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreousuariopagosubastacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreosubastadorsubastafinalizadacommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreosubastadorsubastafinalizadacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreosubastadorreclamopremiocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreosubastadorconfirmacionreclamopremiocommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreosubastadorreclamopremiocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreosubastadorconfirmacionreclamopremiocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreopagosubastafallidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreoganadorsubastacommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreoganadorsubastacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74703638-D7F3-46A9-8AFF-AEF740462900}|..\\TestMicroservicioNotificaciones\\TestMicroservicioNotificaciones.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\testmicroservicionotificaciones\\commandtest\\enviarcorreocancelacionsubastacommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\commands\\enviarcorreocancelacionsubastacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6365029-ABAE-4359-B5BD-1A2689A551B4}|..\\Domain\\Domain.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\domain\\entities\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\exceptions\\falloalenviarcorreoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\correoganadorsubastadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EC8CAD-370D-40F6-8CB8-D34950D55378}|..\\Application\\Application.csproj|c:\\users\\adbla\\documents\\github\\microservicionotificaciones\\application\\dto\\contenidocorreodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Handler\\SendNotificationCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Email\\SmtpEmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Interfaces\\IEmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\DTO\\SendNotificationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Commands\\SendNotificationCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,12 +216,26 @@
           "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneradorContenidoCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commons\\GeneradorContenidoCorreo.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commons\\GeneradorContenidoCorreo.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commons\\GeneradorContenidoCorreo.cs",
+              "RelativeToolTip": "..\\Application\\Commons\\GeneradorContenidoCorreo.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwJ4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:55:43.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -73,172 +247,761 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T20:45:13.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SendNotificationCommandHandler.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Handler\\SendNotificationCommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Handler\\SendNotificationCommandHandler.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Handler\\SendNotificationCommandHandler.cs",
-              "RelativeToolTip": "..\\Application\\Handler\\SendNotificationCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:48:09.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SmtpEmailSender.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Email\\SmtpEmailSender.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Email\\SmtpEmailSender.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Email\\SmtpEmailSender.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Email\\SmtpEmailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:49:05.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEmailSender.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Interfaces\\IEmailSender.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IEmailSender.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Interfaces\\IEmailSender.cs",
-              "RelativeToolTip": "..\\Application\\Interfaces\\IEmailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:02:54.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SendNotificationDto.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\DTO\\SendNotificationDto.cs",
-              "RelativeDocumentMoniker": "..\\Application\\DTO\\SendNotificationDto.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\DTO\\SendNotificationDto.cs",
-              "RelativeToolTip": "..\\Application\\DTO\\SendNotificationDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:01:17.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T19:53:19.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SendNotificationCommand.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Commands\\SendNotificationCommand.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Commands\\SendNotificationCommand.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Commands\\SendNotificationCommand.cs",
-              "RelativeToolTip": "..\\Application\\Commands\\SendNotificationCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:47:07.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:52:48.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "NotificationController.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Controllers\\NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Controllers\\NotificationController.cs",
               "RelativeToolTip": "Controllers\\NotificationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAewJIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T20:38:53.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T20:27:25.522Z",
+              "DocumentIndex": 5,
+              "Title": "CorreoReclamoPremioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoReclamoPremioDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoReclamoPremioDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoReclamoPremioDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoReclamoPremioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:21:44.493Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnviarCorreoSubastadorConfirmacionReclamoPremioHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:37:18.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnviarCorreoSubastadorReclamoPremioHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastadorReclamoPremioHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoSubastadorReclamoPremioHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastadorReclamoPremioHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoSubastadorReclamoPremioHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwCAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:23:36.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorreoUsuarioResoluci\u00F3nReclamoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioResoluci\u00F3nReclamoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoUsuarioResoluci\u00F3nReclamoDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioResoluci\u00F3nReclamoDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoUsuarioResoluci\u00F3nReclamoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:51:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CorreoSubastadorSubastaFinalizadaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoSubastadorSubastaFinalizadaDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoSubastadorSubastaFinalizadaDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoSubastadorSubastaFinalizadaDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoSubastadorSubastaFinalizadaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:21:50.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnviarCorreoUsuarioPujaAutomaticaAcabadaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:11:28.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnviarCorreoUsuarioPagoSubastaHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPagoSubastaHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPagoSubastaHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPagoSubastaHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPagoSubastaHandlerTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:54:14.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorreoSubastaCanceladaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoSubastaCanceladaDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoSubastaCanceladaDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoSubastaCanceladaDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoSubastaCanceladaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:08:05.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CorreoUsuarioPujaAutomaticaAcabadaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioPujaAutomaticaAcabadaDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoUsuarioPujaAutomaticaAcabadaDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioPujaAutomaticaAcabadaDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoUsuarioPujaAutomaticaAcabadaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAChAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:56:23.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T05:08:37.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Class1.cs",
-              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Class1.cs",
-              "RelativeToolTip": "..\\Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EnviarCorreoPagoSubastaFallidoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoPagoSubastaFallidoHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoPagoSubastaFallidoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoPagoSubastaFallidoHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoPagoSubastaFallidoHandlerTest.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:56:02.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T05:48:14.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "EnviarCorreoUsuarioPagoSubastaCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPagoSubastaCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPagoSubastaCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPagoSubastaCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPagoSubastaCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:42:15.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnviarCorreoPagoSubastaFallidoCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoPagoSubastaFallidoCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoPagoSubastaFallidoCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoPagoSubastaFallidoCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoPagoSubastaFallidoCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:36:25.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnviarCorreoUsuarioPagoSubastaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoUsuarioPagoSubastaHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoUsuarioPagoSubastaHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoUsuarioPagoSubastaHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoUsuarioPagoSubastaHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:53:42.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnviarCorreoSubastaCanceladaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastaCanceladaHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoSubastaCanceladaHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastaCanceladaHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoSubastaCanceladaHandler.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:23:40.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnviarCorreoPagoSubastaFallidoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoPagoSubastaFallidoHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoPagoSubastaFallidoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoPagoSubastaFallidoHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoPagoSubastaFallidoHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:23:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CorreoUsuarioPagoSubastaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioPagoSubastaDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoUsuarioPagoSubastaDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioPagoSubastaDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoUsuarioPagoSubastaDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:08:26.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CorreoUsuarioPagoSubastaFallidoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioPagoSubastaFallidoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoUsuarioPagoSubastaFallidoDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoUsuarioPagoSubastaFallidoDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoUsuarioPagoSubastaFallidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:08:33.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:47:44.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T19:53:19.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MicroservicioNotificaciones.http",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\MicroservicioNotificaciones.http",
+              "RelativeDocumentMoniker": "MicroservicioNotificaciones.http",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\MicroservicioNotificaciones.http",
+              "RelativeToolTip": "MicroservicioNotificaciones.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-11T13:47:30.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\WebAPITest\\NotificationControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\WebAPITest\\NotificationControllerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\WebAPITest\\NotificationControllerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\WebAPITest\\NotificationControllerTest.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:04:34.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T20:27:25.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Infrastructure\\Services\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Services\\SmtpEmailSender.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Infrastructure\\Services\\SmtpEmailSender.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Services\\SmtpEmailSender.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:26:02.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnviarCorreoUsuarioPujaAutomaticaAcabadaHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaHandlerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:55:07.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\MicroservicioNotificaciones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:52:48.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnviarCorreoUsuarioResolucionReclamoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioResolucionReclamoHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioResolucionReclamoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioResolucionReclamoHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoUsuarioResolucionReclamoHandlerTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:55:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EnviarCorreoUsuarioResolucionReclamoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoUsuarioResolucionReclamoHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoUsuarioResolucionReclamoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoUsuarioResolucionReclamoHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoUsuarioResolucionReclamoHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:09:35.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EnviarCorreoSubastadorSubastaFinalizadaHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorSubastaFinalizadaHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorSubastaFinalizadaHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorSubastaFinalizadaHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorSubastaFinalizadaHandlerTest.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:52:49.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EnviarCorreoSubastadorSubastaFinalizadaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastadorSubastaFinalizadaHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoSubastadorSubastaFinalizadaHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoSubastadorSubastaFinalizadaHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoSubastadorSubastaFinalizadaHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:52:22.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EnviarCorreoSubastadorReclamoPremioHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorReclamoPremioHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorReclamoPremioHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorReclamoPremioHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorReclamoPremioHandlerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:51:40.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnviarCorreoSubastadorConfirmacionReclamoPremioHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioHandlerTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:50:51.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EnviarCorreoCanclecionSubastaHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoCanclecionSubastaHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoCanclecionSubastaHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoCanclecionSubastaHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoCanclecionSubastaHandlerTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:49:32.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EnviarCorreoGanadorSubastaHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoGanadorSubastaHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoGanadorSubastaHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoGanadorSubastaHandlerTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\HandlerTest\\EnviarCorreoGanadorSubastaHandlerTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:46:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Domain\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Domain\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:23:19.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EnviarCorreoUsuarioResolucionReclamoCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioResolucionReclamoCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioResolucionReclamoCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioResolucionReclamoCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioResolucionReclamoCommandTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:44:23.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EnviarCorreoUsuarioPujaAutomaticaAcabadaCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:43:20.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EnviarCorreoGanadorSubastaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoGanadorSubastaHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Handler\\EnviarCorreoGanadorSubastaHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Handler\\EnviarCorreoGanadorSubastaHandler.cs",
+              "RelativeToolTip": "..\\Application\\Handler\\EnviarCorreoGanadorSubastaHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:10:52.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EnviarCorreoSubastadorSubastaFinalizadaCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorSubastaFinalizadaCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorSubastaFinalizadaCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorSubastaFinalizadaCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorSubastaFinalizadaCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:40:14.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EnviarCorreoUsuarioResolucionReclamoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoUsuarioResolucionReclamoCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoUsuarioResolucionReclamoCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoUsuarioResolucionReclamoCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoUsuarioResolucionReclamoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:51:48.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EnviarCorreoSubastadorReclamoPremioCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorReclamoPremioCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorReclamoPremioCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorReclamoPremioCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorReclamoPremioCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:38:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EnviarCorreoUsuarioPujaAutomaticaAcabadaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoUsuarioPujaAutomaticaAcabadaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:58:59.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EnviarCorreoSubastadorConfirmacionReclamoPremioCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:37:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnviarCorreoUsuarioPagoSubastaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoUsuarioPagoSubastaCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoUsuarioPagoSubastaCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoUsuarioPagoSubastaCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoUsuarioPagoSubastaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:58:11.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EnviarCorreoSubastadorSubastaFinalizadaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoSubastadorSubastaFinalizadaCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoSubastadorSubastaFinalizadaCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoSubastadorSubastaFinalizadaCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoSubastadorSubastaFinalizadaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:56:34.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EnviarCorreoGanadorSubastaCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoGanadorSubastaCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoGanadorSubastaCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoGanadorSubastaCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoGanadorSubastaCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:35:09.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EnviarCorreoSubastadorReclamoPremioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoSubastadorReclamoPremioCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoSubastadorReclamoPremioCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoSubastadorReclamoPremioCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoSubastadorReclamoPremioCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:17:23.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EnviarCorreoCancelacionSubastaCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoCancelacionSubastaCommandTest.cs",
+              "RelativeDocumentMoniker": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoCancelacionSubastaCommandTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoCancelacionSubastaCommandTest.cs",
+              "RelativeToolTip": "..\\TestMicroservicioNotificaciones\\CommandTest\\EnviarCorreoCancelacionSubastaCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:33:05.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EnviarCorreoSubastadorConfirmacionReclamoPremioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoSubastadorConfirmacionReclamoPremioCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:52:25.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EnviarCorreoPagoSubastaFallidoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoPagoSubastaFallidoCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoPagoSubastaFallidoCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoPagoSubastaFallidoCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoPagoSubastaFallidoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:52:26.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Domain\\Entities\\Notificacion.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Domain\\Entities\\Notificacion.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Notificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:22:08.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EnviarCorreoGanadorSubastaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoGanadorSubastaCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoGanadorSubastaCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoGanadorSubastaCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoGanadorSubastaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:51:39.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FalloAlEnviarCorreoException.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Exceptions\\FalloAlEnviarCorreoException.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Exceptions\\FalloAlEnviarCorreoException.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Exceptions\\FalloAlEnviarCorreoException.cs",
+              "RelativeToolTip": "..\\Application\\Exceptions\\FalloAlEnviarCorreoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:21:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EnviarCorreoCancelacionSubastaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoCancelacionSubastaCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Commands\\EnviarCorreoCancelacionSubastaCommand.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\Commands\\EnviarCorreoCancelacionSubastaCommand.cs",
+              "RelativeToolTip": "..\\Application\\Commands\\EnviarCorreoCancelacionSubastaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:47:57.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CorreoGanadorSubastaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoGanadorSubastaDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\CorreoGanadorSubastaDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\CorreoGanadorSubastaDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\CorreoGanadorSubastaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:53:04.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ContenidoCorreoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\ContenidoCorreoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTO\\ContenidoCorreoDTO.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\MicroServicioNotificaciones\\Application\\DTO\\ContenidoCorreoDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTO\\ContenidoCorreoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:51:06.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SendNotificationCommandHandler.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Handler\\SendNotificationCommandHandler.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Handler\\SendNotificationCommandHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:48:09.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Email\\SmtpEmailSender.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Email\\SmtpEmailSender.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:49:05.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Interfaces\\IEmailSender.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:02:54.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\DependencyInjection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:45:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SendNotificationDto.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\DTO\\SendNotificationDto.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\DTO\\SendNotificationDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:01:17.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SendNotificationCommand.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Commands\\SendNotificationCommand.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Commands\\SendNotificationCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:47:07.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Infrastructure\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:56:23.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Class1.cs",
+              "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Application\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:56:02.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
               "ToolTip": "D:\\ProyectoDesarrollo\\MicroServicioNotificaciones\\Domain\\Class1.cs",
-              "RelativeToolTip": "..\\Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:55:36.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T18:55:36.283Z"
             }
           ]
         },

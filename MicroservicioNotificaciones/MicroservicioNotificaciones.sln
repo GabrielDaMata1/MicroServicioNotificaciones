@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "..\Applicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMicroservicioNotificaciones", "..\TestMicroservicioNotificaciones\TestMicroservicioNotificaciones.csproj", "{74703638-D7F3-46A9-8AFF-AEF740462900}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A063F41B-51BB-4B8B-A5D2-DCE9DC1D37EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74703638-D7F3-46A9-8AFF-AEF740462900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74703638-D7F3-46A9-8AFF-AEF740462900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74703638-D7F3-46A9-8AFF-AEF740462900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74703638-D7F3-46A9-8AFF-AEF740462900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
